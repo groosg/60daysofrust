@@ -59,7 +59,7 @@ This step is skipping a lot of explanation - check the [before mentioned tutoria
 I'm assuming Rust and its toolchain are installed - see the [installation guide](https://doc.rust-lang.org/book/ch01-01-installation.html).
 
 ```shell
-cargo new --vcs none
+cargo new hello_world --vcs none && cd hello_world
 
 nvim src/main.rs
 ```
