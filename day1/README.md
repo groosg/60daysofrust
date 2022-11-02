@@ -4,7 +4,9 @@ Hi! Welcome to the 60 days of coding with Rust, day 1.
 
 Today I spent some time to set up a Rust development environment with Neovim.
 This setup is based on this nice tutorial: https://sharksforarms.dev/posts/neovim-rust/.
-Note that the steps described below are not a tutorial. If you are looking into setting up your environment, I recommend checking the tutorial.
+
+Note that the steps below are not a descriptive tutorial - those are just the commands that worked for me today.
+If you are looking into setting up your environment, I recommend checking the tutorial linked above.
 
 The commands below were executed on Ubuntu 22.04.
 
