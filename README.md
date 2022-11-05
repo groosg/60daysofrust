@@ -5,6 +5,8 @@ This repo keeps track of my learning experience with Rust.
 - Day 1: [Development environment with Neovim](./day1/)
 - Day 2: [Programming a Guessing Game](./day2/)
 - Day 3: [Guessing Game Web](./day3/)
+- Day 4: [Programming a Single-Threaded Web Server](./day4/)
+
 
 ## Bootstrap a day
 
