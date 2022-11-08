@@ -1,6 +1,6 @@
-# Day 4 - 60 Days of Rust
+# Day 7 - 60 Days of Rust
 
-Hi! Welcome to the 60 days of coding with Rust, day 4.
+Hi! Welcome to the 60 days of coding with Rust, day 7.
 
-Implementation of the [Single-Threaded Web Server from The Rust Programming Book](https://doc.rust-lang.org/book/ch20-01-single-threaded.html).
+Implementation of the [Turning Our Single-Threaded Server into a Multithreaded Server](https://doc.rust-lang.org/book/ch20-02-multithreaded.html) + [Graceful Shutdown and Cleanup](https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html).
 
